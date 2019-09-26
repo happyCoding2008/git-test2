@@ -14,4 +14,6 @@ public class UserController {
         System.out.println("master");
         System.out.println("github..........");
     }
+
+    public void other(){}
 }
