@@ -16,4 +16,6 @@ public class UserController {
     }
 
     public void other(){}
+
+    public void test(){}
 }
