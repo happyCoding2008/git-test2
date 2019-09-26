@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class UserController {
 
     public static void main(String[] args){
-
+        System.out.println("master");
     }
 }
